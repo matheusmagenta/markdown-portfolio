@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. Journalism
+2. Data science
+3. Data journalism
