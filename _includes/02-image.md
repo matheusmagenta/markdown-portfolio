@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Jon Snow map](https://blogs.cdc.gov/publichealthmatters/files/2017/03/Snow-cholera-map-1_banner-1.jpg)
